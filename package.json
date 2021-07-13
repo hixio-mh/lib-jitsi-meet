@@ -41,7 +41,7 @@
     "core-js": "2.5.1",
     "eslint": "4.12.1",
     "eslint-config-jitsi": "github:jitsi/eslint-config-jitsi#1.0.0",
-    "eslint-plugin-flowtype": "2.39.1",
+    "eslint-plugin-flowtype": "2.50.3",
     "eslint-plugin-import": "2.8.0",
     "flow-bin": "0.104.0",
     "jasmine-core": "3.5.0",
