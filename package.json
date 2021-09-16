@@ -39,7 +39,7 @@
     "babel-eslint": "10.0.1",
     "babel-loader": "8.0.4",
     "core-js": "2.5.1",
-    "eslint": "4.12.1",
+    "eslint": "7.0.0",
     "eslint-config-jitsi": "github:jitsi/eslint-config-jitsi#1.0.0",
     "eslint-plugin-flowtype": "2.39.1",
     "eslint-plugin-import": "2.8.0",
@@ -52,7 +52,7 @@
     "string-replace-loader": "2.1.1",
     "webpack": "4.43.0",
     "webpack-bundle-analyzer": "3.4.1",
-    "webpack-cli": "3.3.11"
+    "webpack-cli": "4.0.0"
   },
   "scripts": {
     "lint": "eslint . && flow",
